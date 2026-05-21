@@ -4,11 +4,16 @@ Proyecto de Business Intelligence que implementa un Estado de Resultados interac
 
 > Basado en el artículo y tutorial de **[Valerie Junk](https://www.valeriejunk.nl/profit-and-loss-statement-in-power-bi/)** — *Profit and Loss Statement in Power BI*. El enfoque estructural, el patrón de Helper Table y la lógica del Switch DAX provienen de su trabajo original. Esta implementación adapta el modelo al español, extiende la lógica comparativa año actual vs. año anterior con títulos dinámicos, y simplifica la medida Switch eliminando la variable `isPLID`.
 
+
 ---
+
+## 🔗 Dashboard interactivo
+
+[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGZjNmU5ODctMzYyMi00OWU1LTgyM2UtZGMzMGQxZGZjZjY0IiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=aa24aa9e1217fa011678)
 
 ## 📸 Vista previa
 
-![Dashboard Estado de Resultados](./assets/dashboard_preview.png)
+![Dashboard Estado de Resultados](https://github.com/diegovillavicencio1208-ops/Estado_de_Resultado/blob/25fc315cf4f4de755a49f8970131fa991b6355a3/Finanancial_report.png)
 
 ---
 
@@ -563,5 +568,5 @@ Economista | Analista de Datos
 
 [![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegovillavicencio1208-ops)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegovillavicenciodl/)
-
+[![Website](https://img.shields.io/badge/WEBSITE-8E001C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diegovillavicencio.framer.website/)
 ---
