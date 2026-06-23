@@ -9,7 +9,7 @@ Proyecto de Business Intelligence que implementa un Estado de Resultados interac
 
 ## 🔗 Dashboard interactivo
 
-[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiNGZjNmU5ODctMzYyMi00OWU1LTgyM2UtZGMzMGQxZGZjZjY0IiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=aa24aa9e1217fa011678)
+[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZmOGQ4MWItM2QyYS00MTg4LTgzNzItODFhOWZkMGVmODljIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=db809bd683c06d063af7)
 
 ## 📸 Vista previa
 
