@@ -50,7 +50,9 @@ Eliminar la elaboración manual y repetitiva del Estado de Resultados, entregand
 
 ---
 
-## Contacto
-**Portafolio:** [diegovillavicencio.framer.website](https://diegovillavicencio.framer.website/)
-**LinkedIn:** [linkedin.com/in/diegovillavicenciodl](https://www.linkedin.com/in/diegovillavicenciodl/)
-**Correo:** ...
+- ## Contactos
+
+[![Email](https://img.shields.io/badge/EMAIL-FFC107?style=for-the-badge&logo=gmail&logoColor=black)](mailto:diegovillavicenciodl@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegovillavicenciodl/)
+[![Website](https://img.shields.io/badge/WEBSITE-8E001C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diegovillavicencio.framer.website/)
+---
