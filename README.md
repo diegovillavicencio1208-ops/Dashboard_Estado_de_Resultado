@@ -1,4 +1,4 @@
-# 📊 Automatización EEstado dde Resultados(P&L)
+# 📊 Automatización Estado dde Resultados(P&L)
 
 ## Descripción
 Dashboard en Power BI que sistematiza la creación del Estado de Resultados (P&L) de una empresa, manteniendo el formato tradicional en que se presenta este informe financiero: ingresos, costos, utilidad bruta, utilidad neta, pero de forma interactiva y actualizada automáticamente con cada nuevo período de datos.
