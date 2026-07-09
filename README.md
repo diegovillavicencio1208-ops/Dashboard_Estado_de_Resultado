@@ -45,7 +45,7 @@ Eliminar la elaboración manual y repetitiva del Estado de Resultados, entregand
 ---
 
 ## Documentación
-- 📘 [Documentación técnica](https://github.com/diegovillavicencio1208-ops/Dashboard_Estado_de_Resultado/blob/e2e17e7adee014f0300f861282d90606e0a2da76/Documentacion.md)
+- 📘 [Documentación técnica](https://github.com/diegovillavicencio1208-ops/Dashboard_Estado_de_Resultado/blob/08079672f22ea7df74624e5d01ac3040679ea960/Documentacion_Tecnica.md)
 - 📊 [Dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiYmZmOGQ4MWItM2QyYS00MTg4LTgzNzItODFhOWZkMGVmODljIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=db809bd683c06d063af7)
 
 ---
