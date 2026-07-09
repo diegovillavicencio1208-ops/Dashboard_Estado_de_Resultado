@@ -1,40 +1,9 @@
-# 📊 dDocumentación Técnica - Estado de Resultados (P&L) 
+# 📊 Documentación Técnica - Estado de Resultados (P&L) 
 
 Proyecto de Business Intelligence que implementa un Estado de Resultados interactivo en Power BI utilizando únicamente visuales nativos, una tabla auxiliar y medidas DAX.
 
 > Basado en el artículo y tutorial de **[Valerie Junk](https://www.valeriejunk.nl/profit-and-loss-statement-in-power-bi/)** - *Profit and Loss Statement in Power BI*. El enfoque estructural, el patrón de Helper Table y la lógica del Switch DAX provienen de su trabajo original. Esta implementación adapta el modelo al español, extiende la lógica comparativa año actual vs. año anterior con títulos dinámicos, y simplifica la medida Switch eliminando la variable `isPLID`.
 
-
----
-
-## 🔗 Dashboard interactivo
-
-[Ver dashboard en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZmOGQ4MWItM2QyYS00MTg4LTgzNzItODFhOWZkMGVmODljIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=db809bd683c06d063af7)
-
-## 📸 Vista previa
-
-![Dashboard Estado de Resultados](https://github.com/diegovillavicencio1208-ops/Estado_de_Resultado/blob/25fc315cf4f4de755a49f8970131fa991b6355a3/Finanancial_report.png)
-
----
-
-## 📌 Descripción del proyecto
-
-El dashboard presenta el Estado de Resultados de una empresa en dos vistas complementarias:
-
-- **Desglose mensual** - Ingresos, costos y utilidades columna por columna por cada mes del año seleccionado.
-- **Análisis comparativo** - Año actual vs. año anterior vs. diferencia (Δ), con títulos que se actualizan automáticamente según los datos disponibles.
-
-Ambas matrices comparten la misma jerarquía de filas definida por la `Tabla_Auxiliar_PyG`, que controla el orden, las categorías y las filas calculadas del estado de resultados.
-
----
-
-## 💡 El problema que resuelve
-
-La matriz nativa de Power BI solo acepta un tipo de dato por columna de valores y no permite mezclar montos, porcentajes y subtotales calculados en la misma visualización. Este proyecto resuelve eso con tres elementos:
-
-1. Una **tabla auxiliar** que define el layout exacto de filas.
-2. **IDs virtuales** (997, 998, 999) para filas calculadas que no existen en los datos fuente.
-3. Una **medida Switch** que lee el ID de cada fila y devuelve la medida correspondiente.
 
 ---
 
