@@ -13,9 +13,10 @@ Eliminar la elaboración manual y repetitiva del Estado de Resultados, entregand
 ---
 
 ## Dashboard
-[![Dashboard Estado de Resultados](https://github.com/diegovillavicencio1208-ops/Estado_de_Resultado/blob/25fc315cf4f4de755a49f8970131fa991b6355a3/Finanancial_report.png)](https://app.powerbi.com/view?r=eyJrIjoiYmZmOGQ4MWItM2QyYS00MTg4LTgzNzItODFhOWZkMGVmODljIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=db809bd683c06d063af7)
 
 🔗 [Ver dashboard interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiYmZmOGQ4MWItM2QyYS00MTg4LTgzNzItODFhOWZkMGVmODljIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=db809bd683c06d063af7)
+
+[![Dashboard Estado de Resultados](https://github.com/diegovillavicencio1208-ops/Estado_de_Resultado/blob/25fc315cf4f4de755a49f8970131fa991b6355a3/Finanancial_report.png)](https://app.powerbi.com/view?r=eyJrIjoiYmZmOGQ4MWItM2QyYS00MTg4LTgzNzItODFhOWZkMGVmODljIiwidCI6IjU1N2NiNjMxLWI3ZjQtNGM1NC1hNjljLWM4MzQ1NWQxMzEyOCIsImMiOjR9&pageName=db809bd683c06d063af7)
 
 ---
 
