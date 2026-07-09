@@ -1,4 +1,4 @@
-# 📊 Estado de Resultados (P&L) - Power BI
+# 📊 DDocumentaciónTTécnica- Estado de Resultados (P&L) 
 
 Proyecto de Business Intelligence que implementa un Estado de Resultados interactivo en Power BI utilizando únicamente visuales nativos, una tabla auxiliar y medidas DAX.
 
